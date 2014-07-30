@@ -13,6 +13,7 @@ webテンプレ
 (function(window, $, undefined) {
     "use strict";   // strictモードを使用
 
+
     // DOMの読み込みを待つ必要ない事前処理
 
     $(function() {
